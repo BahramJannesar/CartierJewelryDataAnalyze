@@ -51,5 +51,14 @@ And add some new columns , for predicting jewels price (new columns are added in
    * 'tsavorite garnet', 'tsavorite garnets', 'white gold',
    * 'white mother_of_pearl', 'yellow gold'
 
-All of these column as you can see in top , are dummie variable just for using in machine learning. ready_df_for_ML.csv file is ready for running ML algorithm. 
+All of these column as you can see in top , are dummie variable just for using in machine learning. 
+**ready_df_for_ML.csv**  file is ready for running ML algorithm.
 
+### Written By
+
+* [Soroush Ghaderi](https://github.com/SoroushGhaderi)
+
+* [Bahram Jannesar](https://github.com/Bahramjannesar)
+
+### License
+See full license on [this](https://opensource.org/licenses/MIT) , Under MIT License
